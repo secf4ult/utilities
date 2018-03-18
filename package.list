@@ -1,0 +1,8 @@
+# basic
+    - nvm -- Node Version Manager
+    - pyenv -- Python Version Management
+    - rbenv -- Groom your app's Ruby environment with rbenv
+# python:
+    - streamlink -- using local player to watch live stream
+
+# node.js:
